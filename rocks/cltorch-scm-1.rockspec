@@ -2,7 +2,7 @@ package = "cltorch"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/hughperkins/cltorch.git",
+   url = "git://github.com/spijdar/cltorch.git",
 }
 
 description = {
